@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: 992382397817.dkr.ecr.ap-northeast-2.amazonaws.com/tta-website:8c88e0e
+      - image: 992382397817.dkr.ecr.ap-northeast-2.amazonaws.com/tta-website:2199a2e
         name: argocd-kube
